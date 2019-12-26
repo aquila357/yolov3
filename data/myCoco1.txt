@@ -1,1 +1,1 @@
-../coco/images/train2017/1505828189219.jpg
+../coco/images/train2014/1505828189219.jpg
