@@ -1,0 +1,4 @@
+classes=1
+train=data/myCoco1.txt
+valid=data/myCoco1.txt
+names=data/myCoco.names
