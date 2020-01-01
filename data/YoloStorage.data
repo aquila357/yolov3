@@ -1,4 +1,4 @@
 classes=1
-train=data/myCoco1.txt
-valid=data/myCoco1.txt
+train=../YoloStorage/Data/Train.txt
+valid=../YoloStorage/Data/Eval.txt
 names=data/myCoco.names
