@@ -1,5 +1,5 @@
 filename="cocoTacoSub.rar"
-fileid="1rwkQNmswfBtLkonqU3x3tufQz31gy0HS"  # coco.zip
+fileid="16hc3WVwHi-BZ63D4tcIA2ObkCxlsuDhj"  # coco.zip
 
 # Download from Google Drive, accepting presented query
 curl -c ./cookie -s -L "https://drive.google.com/uc?export=download&id=${fileid}" > /dev/null
