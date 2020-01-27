@@ -1,4 +1,0 @@
-classes=1
-train=../coco/TrainSub.txt
-valid=../coco/TrainSub.txt
-names=data/myCoco.names
